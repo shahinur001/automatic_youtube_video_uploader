@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets & Tokens (CRITICAL)
+token.pickle
+client_secret.json
+
+# Local folders / videos
+*.mp4
